@@ -47,7 +47,7 @@ Me chamo Fabio Cerqueira Jeronymo, tenho 23 anos e sou natural de São Paulo. Fo
 
 </p> 
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <table>
   <tr>
@@ -67,3 +67,4 @@ Me chamo Fabio Cerqueira Jeronymo, tenho 23 anos e sou natural de São Paulo. Fo
     </td>
   </tr>
 </table>
+
