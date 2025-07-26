@@ -61,7 +61,7 @@ Me chamo Fabio Cerqueira Jeronymo, tenho 23 anos e sou natural de São Paulo. Fo
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiojeronymo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiojeronymo)](https://github.com/Fabiojeronymo/github-readme-stats)" 
   />
 </p>
 
