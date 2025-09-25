@@ -39,12 +39,12 @@ Me chamo Fabio Cerqueira Jeronymo, tenho 23 anos e sou natural de São Paulo. Fo
   <img title="Matplotlib" alt="Matplotlib" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" />
   <img title="Numpy" alt="Numpy" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
   <img title="Jupyter" alt="Jupyter" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-plain-wordmark.svg" />
+  <img title="PowerBI" alt="PowerBI" width="30px" style="margin-right: 10px;" src="https://img.icons8.com/?size=100&id=60FAtwL6Hs1F&format=png&color=000000" />
   <img title="SQL" alt="SQL" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain.svg" />
   <img title="Git" alt="Git" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img title="HTML5" alt="HTML5" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img title="Javascript" alt="Javascript" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img title="CSS" alt="CSS" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
 </p> 
 
 ## 📊 Estatísticas
