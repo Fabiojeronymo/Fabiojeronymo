@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Fabio Jeronymo
 
-**`Ciência de Dados`**
+**`Analista de Dados`** **`Cientista de Dados`**
 
 Me chamo Fabio Cerqueira Jeronymo, tenho 23 anos e sou natural de São Paulo. Formado como técnico em Mecatrônica me interessei no TI. Atualmente, estou cursando Ciência da Computação na FMU. Sou apaixonado por Dados e venho me interessando e me aprofundando nisso com curso da Alura e Udemy.
 
